@@ -23,6 +23,7 @@ body {
   display: flex;
   gap: 16px;
   padding: 16px;
+  
 }
 
 .icon {
@@ -72,13 +73,15 @@ button.cancel {
   color: royalblue;
 }
 
+
+
 .header {
   display: flex;
-  align-items: center;
   justify-content: space-between;
-  font-size: 18px;
   font-weight: 700;
+  font-size: 18px;
   margin-bottom: 8px;
+  align-items: center;
 }
 
 .text {
